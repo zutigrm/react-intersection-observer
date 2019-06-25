@@ -138,7 +138,7 @@
     "babel-eslint": "10.0.2",
     "babel-jest": "^24.5.0",
     "babel-loader": "^8.0.5",
-    "concurrently": "^4.1.0",
+    "concurrently": "^4.1.1",
     "coveralls": "^3.0.3",
     "eslint": "^6.0.0",
     "eslint-config-react-app": "^4.0.0",
