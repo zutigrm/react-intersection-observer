@@ -131,7 +131,7 @@
     "@testing-library/jest-dom": "^4.0.0",
     "@testing-library/react": "^9.1.0",
     "@types/jest": "^24.0.9",
-    "@types/react": "^16.9.1",
+    "@types/react": "^16.9.2",
     "@types/react-dom": "^16.8.2",
     "@types/storybook__addon-actions": "^3.4.1",
     "@types/storybook__addon-knobs": "^5.0.2",
